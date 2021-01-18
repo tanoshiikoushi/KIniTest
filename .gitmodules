@@ -1,0 +1,3 @@
+[submodule "extern/libKIni"]
+	path = extern/libKIni
+	url = git@github.com:tanoshiikoushi/libKIni.git
