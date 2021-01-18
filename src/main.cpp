@@ -1,4 +1,4 @@
-#include "../libKIni/KIni.h"
+#include "KIni.h"
 #include <iostream>
 #include <cstdio>
 
@@ -6,7 +6,7 @@ int main(int argc, char* argv[])
 {
     if (argc != 2)
     {
-        std::cout << "Usage: cog_magic.exe \"path/to/the/level.lv2\"\n";
+        std::cout << "Usage: KIniTest \"path/to/the/level.lv2\"\n";
         return 0;
     }
 
